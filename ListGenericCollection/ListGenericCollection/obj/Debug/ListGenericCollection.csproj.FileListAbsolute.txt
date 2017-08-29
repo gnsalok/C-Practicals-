@@ -1,0 +1,11 @@
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.exe.config
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\ListGenericCollection\ListGenericCollection\obj\Debug\ListGenericCollection.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\ListGenericCollection\ListGenericCollection\obj\Debug\ListGenericCollection.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.exe.config
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\bin\Debug\ListGenericCollection.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\obj\Debug\ListGenericCollection.csprojResolveAssemblyReference.cache
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\obj\Debug\ListGenericCollection.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Generic\ListGenericCollection\ListGenericCollection\obj\Debug\ListGenericCollection.pdb
