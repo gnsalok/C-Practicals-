@@ -1,0 +1,5 @@
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\testDictionary\testDictionary\bin\Debug\testDictionary.exe.config
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\testDictionary\testDictionary\bin\Debug\testDictionary.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\testDictionary\testDictionary\bin\Debug\testDictionary.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\testDictionary\testDictionary\obj\Debug\testDictionary.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\Generic\testDictionary\testDictionary\obj\Debug\testDictionary.pdb
