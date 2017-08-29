@@ -1,0 +1,6 @@
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\_Alok's Workplace\_Alok's Practicals\_.NET Duccat Practicals\C# Practicals\Reflection\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
