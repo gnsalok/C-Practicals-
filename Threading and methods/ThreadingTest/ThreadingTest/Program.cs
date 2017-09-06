@@ -49,7 +49,7 @@ namespace ThreadingTest
 
             Thread th1 = new Thread(bb.method2);
             th1.Start();
-            th1.Priority = ThreadPriority.AboveNormal;
+            //th1.Priority = ThreadPriority.AboveNormal;
 
 
 
