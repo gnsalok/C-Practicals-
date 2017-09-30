@@ -30,10 +30,12 @@ namespace EventsAndDelegate
         {
             Console.WriteLine($"Encoding the {video.title}...");
             Thread.Sleep(3000);
+
             //Raise the event here..
             OnVideoEncoded();
         }
 
+        //Event method that raised
         protected virtual void OnVideoEncoded()
         {
             if (VideoEncoded != null)
