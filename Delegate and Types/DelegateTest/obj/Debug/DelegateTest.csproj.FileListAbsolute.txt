@@ -1,6 +1,0 @@
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\obj\Debug\DelegateTest.csprojResolveAssemblyReference.cache
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
-E:\_Alok's Workplace\_Alok's Practicals\+ .NET Duccat Practicals\C# Practicals\Delegate and Types\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb
