@@ -10,3 +10,10 @@ D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\ExtensionMethods\ExtensionMeth
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
