@@ -1,0 +1,13 @@
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Projects\Generics\Generics\obj\Debug\Generics.pdb
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\bin\Debug\Generics.exe.config
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\bin\Debug\Generics.exe
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\bin\Debug\Generics.pdb
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\obj\Debug\Generics.exe
+D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Generics\Generics\obj\Debug\Generics.pdb
