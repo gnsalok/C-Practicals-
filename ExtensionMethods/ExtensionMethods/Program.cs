@@ -24,6 +24,12 @@ namespace ExtensionMethods
             Console.WriteLine("The Max number in the list is :"+max);
 
 
+            string str = "This is a sample demo!!";
+
+           int count= str.Count();
+           Console.WriteLine(count);
+
+
 
 
 
