@@ -13,11 +13,9 @@ namespace DynamicBinding
             ///var keyworld resolves the types at compile time 
             ///while, dynamic resolves at the run time
 
-            dynamic name = "Alok Tripathi";
+            var name = "Alok Tripathi";
             name += " Bansgaon";
             System.Console.WriteLine(name);
-
-
 
         }
 
