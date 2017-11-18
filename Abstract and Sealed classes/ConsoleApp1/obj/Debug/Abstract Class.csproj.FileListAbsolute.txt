@@ -1,0 +1,7 @@
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\obj\Debug\Abstract Class.csprojResolveAssemblyReference.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Abstract and Sealed classes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
