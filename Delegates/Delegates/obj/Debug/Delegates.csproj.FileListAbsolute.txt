@@ -11,3 +11,10 @@ D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Delegates\Delegates\obj\Debug\
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Delegates\Delegates\obj\Debug\Delegates.exe
 D:\+Alok's_Workplace\Alok's_Practicals\C# Advance\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegates\Delegates\obj\Debug\Delegates.pdb
