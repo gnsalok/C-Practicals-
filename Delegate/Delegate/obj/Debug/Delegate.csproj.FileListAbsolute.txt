@@ -1,0 +1,6 @@
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\Delegate\Delegate\obj\Debug\Delegate.pdb

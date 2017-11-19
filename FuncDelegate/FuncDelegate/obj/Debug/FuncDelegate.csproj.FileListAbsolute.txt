@@ -1,0 +1,7 @@
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.exe.config
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\bin\Debug\FuncDelegate.pdb
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.exe
+C:\Users\Alok-PC\Source\Repos\C-Sharp-Practicals\FuncDelegate\FuncDelegate\obj\Debug\FuncDelegate.pdb
