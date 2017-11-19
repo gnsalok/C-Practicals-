@@ -32,9 +32,22 @@ namespace FuncDelegate
 
             Console.WriteLine("Enter a value to find cube?");
             int value = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("The cube is :"+cube(3));
-            
+            Console.WriteLine("The cube is :" + cube(3));
+
+
+
+            Func<int, int> square = n => n * n;
+
+            Console.WriteLine("Square of number is "+square(5));
+
+
+
+
             
         }
+        //public static int square(int i)
+        //{
+        //    return i * i;
+        //}
     }
 }
